@@ -16,9 +16,8 @@
 
 ## 📚 Projects
 
-- View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
+- View my portfolio projects on [**my website**](https://shahidmalik.vercel.app). 
 - View my coding projects on [**Github**](https://github.com/kellyjadams?tab=repositories).
-- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/kellyjadams).
 
 
 ## 📫 Connect with Me
