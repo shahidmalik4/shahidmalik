@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 📊 I'm currently as a data analyst at [Lasani Publisher's]((https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr)).
+- 📊 I'm currently as a data analyst at [Lasani Publisher's](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).
 - 📐 Bachelor's Degree in Software Engineering.
 
 ## 🛠 Skills
