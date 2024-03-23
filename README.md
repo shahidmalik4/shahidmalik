@@ -6,7 +6,7 @@
 - 📐 Bachelor's Degree in Software Engineering.
 
 ## 🛠 Skills
-- **Programming Languages**: SQL (MySQL, MS SQL Server, PostgreSQL)| Python (Pandas, NumPy, Matplotlib, Django, Flask) | JavaScript | HTML & CSS
+- **Programming Languages**: SQL (MySQL, MS SQL Server, PostgreSQL) | Python (Pandas, NumPy, Matplotlib, Django, Flask) | JavaScript | HTML & CSS
 - **Tools**: Excel | Power BI | Google BigQuery | AWS (EC2, S3) | Git
 - **Misc**: ETL | Unix/Linux | Web Scraping
 
