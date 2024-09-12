@@ -17,7 +17,7 @@
 ## 📚 Projects
 
 - View my portfolio projects on [**my website**](https://shahidmalik.vercel.app). 
-- View my coding projects on [**Github**](https://github.com/kellyjadams?tab=repositories).
+- View my coding projects on [**Github**](https://github.com/shahidmalik4?tab=repositories).
 
 
 ## 📫 Connect with Me
